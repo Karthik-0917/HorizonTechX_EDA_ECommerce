@@ -1,3 +1,8 @@
+[![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+[![Python](https://img.shields.io/badge/Python-3.x-green)](https://www.python.org)
+[![Colab](https://img.shields.io/badge/Google-Colab-orange)](https://colab.research.google.com)
+[![Horizon TechX](https://img.shields.io/badge/Internship-HorizonTechX-red)](https://www.horizontechx.com)
+
 # Horizon TechX Internship Project | AI & Data Science
 
 ---
